@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicStrategyPattern", "DynamicStrategyPattern.csproj", "{B2CAED86-9361-4EBC-9600-886FFCDC300D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2CAED86-9361-4EBC-9600-886FFCDC300D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2CAED86-9361-4EBC-9600-886FFCDC300D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2CAED86-9361-4EBC-9600-886FFCDC300D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2CAED86-9361-4EBC-9600-886FFCDC300D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {150C12BF-625B-4CAE-85D8-69178253EB16}
+	EndGlobalSection
+EndGlobal
